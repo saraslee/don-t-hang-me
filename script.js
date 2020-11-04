@@ -17,6 +17,15 @@ const words = [
   "concentration",
   "clout",
   "halloween",
+  "github",
+  "dalmation",
+  "jacket",
+  "yellow",
+  "eucalyptus",
+  "chrysanthemum",
+  "dizzy",
+  "chicken",
+  "mercury"
 ];
 
 let selectedWord = words[Math.floor(Math.random() * words.length)];
@@ -44,7 +53,7 @@ function displayWord() {
   const innerWord = givenWord.innerText.replace(/[ \n]/g, "");
 
   if (innerWord === selectedWord) {
-    finalMessage.innerText = "Congratulations! You won! 😃";
+    finalMessage.innerText = "You won.";
     popup.style.display = "flex";
 
     playable = false;
