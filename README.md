@@ -1,2 +1,2 @@
-# don-t-hang-me
-a modernized hangman web app 
+# Don't Hang Me 
+A modernized hangman web app created using html, css, and javascript.  
