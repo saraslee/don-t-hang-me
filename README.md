@@ -2,5 +2,5 @@
 A modernized hangman web app created using html, css, and javascript.   
 Followed a tutorial by techno mac.  
 
-Play the gang here:
+Play the game here:
 https://saraslee.github.io/don-t-hang-me/
