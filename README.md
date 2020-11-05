@@ -1,4 +1,4 @@
-# Don't Hang Me 
+# don't hang me, please
 A modernized hangman web app created using html, css, and javascript.   
 Followed a tutorial by techno mac.  
 
